@@ -1,16 +1,33 @@
-### Hi there 👋
-
 <!--
-**WhoIsVera/WhoIsVera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--
+<html>
+   <body>
+      <h2 align="center">Bio</h2>
+      <p align="center">
+         I graduated in software development engineering in 2022 from the Autonomous University of Chiapas and I am currently a growing frontend, with the most used technological stack of the era.
+        <br>
+      </p>
+      <h2 align="center">Skills</h2>
+      <dl align="center">
+         <dt>Languages :</dt>
+         <dd>- Java, Python, JavaScript</dd>
+         <dt>Frameworks or Technologies :</dt>
+         <dd>- HTML5, CSS3, SQL
+         </dd>
+      </dl>
+      <h2 align="center">Contact me on</h2>
+      <h2 align="center">
+         <a href="https://www.instagram.com/whoo.is.vera">
+         <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/Instagram_black.png" width="32" height="32"/>
+         </a>
+         <a href="mailto:ev765030@gmail.com">
+         <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/Gmail_black.png" width="32" height="32"/>
+         </a>
+      </h2>
+   </body>
+</html>
 
-Here are some ideas to get you started:
+⭐️ From [Who Is Vera](https://github.com/WhoIsVera)
+-->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->

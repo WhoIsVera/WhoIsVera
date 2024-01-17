@@ -4,7 +4,7 @@
    <body>
       <h2 align="center">Bio</h2>
       <p align="center">
-         I graduated in software development engineering in 2022 from the Autonomous University of Chiapas and I am currently a growing frontend, with the most used technological stack of the era.
+         I graduated in software development engineering in 2022 from the Autonomous University of Chiapas and I am currently a growing frontend, with the most used technological stack of the era. With experience in data extraction and digitization.
         <br>
       </p>
       <h2 align="center">Skills</h2>

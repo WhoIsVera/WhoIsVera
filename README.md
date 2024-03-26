@@ -10,9 +10,9 @@
       <h2 align="center">Skills</h2>
       <dl align="center">
          <dt>Languages :</dt>
-         <dd>- Java, Python, JavaScript</dd>
-         <dt>Frameworks or Technologies :</dt>
-         <dd>- HTML5, CSS3, SQL
+         <dd>- Java, Python, JavaScript, HTML5, CSS3, SQL</dd>
+         
+         <dd>- 
          </dd>
       </dl>
       <h2 align="center">Contact me on</h2>

@@ -12,8 +12,7 @@
          <dt>Languages :</dt>
          <dd>- Java, Python, JavaScript, HTML5, CSS3, SQL</dd>
          
-         <dd>- 
-         </dd>
+         
       </dl>
       <h2 align="center">Contact me on</h2>
       <h2 align="center">

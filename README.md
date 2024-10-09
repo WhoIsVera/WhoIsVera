@@ -32,7 +32,7 @@ I specialize in building scalable, efficient, and clean RESTful APIs, focusing o
 ## 🛠️ Skills & Tools
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,idea,mongodb,mysql,postgres,git,postman,js,html,css,python,docker,kubernetes,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,idea,mongodb,mysql,postgres,git,postman,js,html,css,python,docker,django,github)](https://skillicons.dev)
 
 </div>
 
